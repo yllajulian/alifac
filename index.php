@@ -1,9 +1,6 @@
 <?php
 
 
-echo "hola";
-echo "jesus aqui estoy";
-echo "julian te felicito";
 	//session_start();
 	 require_once"config/app.conf.php";
 	 date_default_timezone_set('America/Lima');
